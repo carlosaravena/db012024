@@ -1,0 +1,39 @@
+{
+    "tareas": [
+        {
+            "id": "1",
+            "titulo": "Nombre Tarea",
+            "descripcion": "Descripcion de la tarea",
+            "idEstado": "1",
+            "fecha_log": "01-12-2024"
+        }
+    ],
+    "estado": [
+        {
+            "id": "1",
+            "nombre": "Pendiente"
+        },
+        {
+            "id": "2",
+            "nombre": "En Proceso"
+        },
+        {
+            "id": "3",
+            "nombre": "En Pruebas"
+        },
+        {
+            "id": "4",
+            "nombre": "Terminado"
+        }
+    ],
+    "usuarios": [
+    {
+      "id": "1",
+      "usuario": "admin",
+      "nombre": "Nombre del Admin",
+      "apellido": "Apellido del Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    }
+  ]
+}
